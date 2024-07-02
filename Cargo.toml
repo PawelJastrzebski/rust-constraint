@@ -1,0 +1,10 @@
+[package]
+name = "rust-constraint"
+description = "Rust implementation of a constraint satisfaction problem (CSPs)"
+version = "0.1.0-alpha.1"
+edition = "2021"
+repository = "https://github.com/PawelJastrzebski/rust-constraint"
+license = "MIT"
+keywords = ["CSP", "constraint", "solving", "combinatorial"]
+
+[dependencies]
